@@ -1,0 +1,23 @@
+{
+  "visual": {
+    "name": "info",
+    "displayName": "Info",
+    "guid": "PBI_CV_89A3936B_554F_4E39_9732_FE9E1ED899DF",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "A simple implementation of an info bubble used to hide further information within a report, without taking up excessive space.",
+    "supportUrl": "http://www.crimsonvault.com/",
+    "gitHubUrl": "https://github.com/aubrianpeters/pbivisuals/tree/master/info"
+  },
+  "apiVersion": "1.1.0",
+  "author": {
+    "name": "Brian Peters",
+    "email": "brianmaxwellpeters+pbivisuals@gmail.com"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json"
+}
